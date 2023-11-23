@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a software engineering project "ToU'.<br>👯 I’m looking to collaborate on various other software engineering projects.<br>🤝 I’m actively looking for summer internships<br>🌱 I’m currently learning Computer Science at the Lebanese American University (LAU).<br>⚡ Aside from coding, I enjoy spending my free time reading books, watching TV shows, and playing video games.<br>💬 Feel free to check out my Github page to see some of the projects I've worked on. Don't hesitate to reach out to me if you have any questions or if you're interested in collaborating on a project together!<br>
+👯 I’m looking to collaborate on various other software engineering projects.<br>🤝 I’m actively looking for summer internships<br>🌱 I’m currently learning Computer Science at the Lebanese American University (LAU).<br>⚡ Aside from coding, I enjoy spending my free time reading books, watching TV shows, and playing video games.<br>💬 Feel free to check out my Github page to see some of the projects I've worked on. Don't hesitate to reach out to me if you have any questions or if you're interested in collaborating on a project together!<br>
 
 
 ## 🌐 Socials:
